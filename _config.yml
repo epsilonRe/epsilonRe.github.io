@@ -16,7 +16,7 @@ timezone:
 
 title: Re # the main title
 
-tagline: dfirma & reverse-engineer # it will display as the sub-title
+tagline: dfirma # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Malware analysis 
