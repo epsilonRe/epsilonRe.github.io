@@ -19,11 +19,11 @@ title: Re # the main title
 tagline: dfirma & reverse-engineer # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Malware analysis ^_^ 
+  Malware analysis 
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: 'https://epsilonre.github.io/'
+url: #'https://epsilonre.github.io/'
 
 github:
   username: epsilonRe # change to your github username
