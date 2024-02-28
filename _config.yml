@@ -26,7 +26,7 @@ description: >- # used by seo meta and the atom feed
 url: 'https://epsilonre.github.io' 
 
 github:
-  username: epsilonRe # change to your github username
+  username: #epsilonRe # change to your github username
 
 twitter:
   username: 
